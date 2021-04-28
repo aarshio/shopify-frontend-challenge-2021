@@ -85,7 +85,7 @@ const Home = (props) => {
           </Grid>
         </Grid>
       </Grid>
-      <div style={{ position: "absolute", bottom: "10px", left: "48vw" }}>
+      <div style={{ position: "absolute", bottom: "10px", left: "45vw" }}>
         Made with ❤️ by{" "}
         <a href="https://aarsh.io" target="blank">
           aarsh.io
