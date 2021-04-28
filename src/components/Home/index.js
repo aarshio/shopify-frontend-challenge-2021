@@ -62,7 +62,7 @@ const Home = (props) => {
                 alignItems: "center",
                 justify: "center",
                 padding: "1vw",
-                maxHeight: "70vh",
+                maxHeight: "60vh",
                 overflow: "auto",
               }}
             >
@@ -76,7 +76,7 @@ const Home = (props) => {
                 alignItems: "center",
                 justify: "center",
                 padding: "1vw",
-                maxHeight: "70vh",
+                maxHeight: "60vh",
                 overflow: "auto",
               }}
             >
