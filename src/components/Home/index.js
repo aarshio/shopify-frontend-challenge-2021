@@ -19,7 +19,7 @@ const Home = (props) => {
     try {
       const decoded = jwt.verify(nominations, "aarsh-nominations").data;
 
-      if (decoded && decoded.length > 0 && decoded.length < MAX_NOMINATIONS) {
+      if (decoded && decoded.length > 0 && decoded.length <= MAX_NOMINATIONS) {
         dispatch({ type: "SET_NOMINATIONS", payload: decoded });
       }
     } catch {}
