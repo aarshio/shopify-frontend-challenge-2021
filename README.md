@@ -1,5 +1,8 @@
 ## Shopify Fall 2021 Front End Challenge
 > Live Demo: https://shoppiez.herokuapp.com/ (it will take some time to load, using free version of heroku)
+
+A webpage that can search OMDB for movies, and allow the user to save their favourite films they feel should be up for nomination. 
+
 ## Features
 - Link sharing
 - Saves user's data (can leave and come back, and user's nomination will be preserved)
@@ -12,7 +15,7 @@
 
 ## Run locally
 Clone the repository and run,
-```sh
+```
 npm install
 npm start
 ```
