@@ -1,5 +1,5 @@
 ## Shopify Fall 2021 Front End Challenge
-> Live Demo: https://shoppiez.herokuapp.com/ (it will take some time to load, using free version of heroku)
+> Live Demo: https://shoppiez.herokuapp.com/ (NOTE: that it will take some time to load the first time, since I'm using the free version of heroku)
 
 A webpage that can search OMDB for movies, and allow the user to save their favourite films they feel should be up for nomination. 
 
